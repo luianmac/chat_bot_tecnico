@@ -1,8 +1,0 @@
-LICENSE
-README.md
-pyproject.toml
-curso_chatbots.egg-info/PKG-INFO
-curso_chatbots.egg-info/SOURCES.txt
-curso_chatbots.egg-info/dependency_links.txt
-curso_chatbots.egg-info/top_level.txt
-src/__init__.py
